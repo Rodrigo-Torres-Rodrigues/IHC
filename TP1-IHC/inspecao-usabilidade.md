@@ -37,4 +37,5 @@ _control i_
 Para linkar, basta colocar dois colchetes, colocar o texto que vai aparecer, e um parenteses com o link da imagem, quando alguém clicar no texto então será redirecionado para o link
 
 > para referencias.
+
 > https://vetex.vet.br/blog/wp-content/uploads/2021/10/como-cachorro-enxerga-o-mundo-930x620.png
